@@ -17,7 +17,8 @@ skills (if you wanna call 'em that):
 ### goals:
 - survive roblox lua without smashing my keyboard
 - maybe not procrastinate learning c
-- figure out why i didnt just try applying to the NFL.
+- figure out why i didnt just try applying to the NFL
+- stop crying over my code
 
 ---
 
