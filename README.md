@@ -1,6 +1,6 @@
 loser degenerate who knows some python and javascript. currently learning roblox lua, not fun, learning c as well, who knew it was a bad idea to learn two languages at once? 
 
-skills (if you wanna call 'em that):
+### skills (if you wanna call 'em that):
 - python: i can print “hello world” and break stuff. not too shabby.
 - javascript: slightly less painful but still makes me question my life choices.
 - roblox lua: why did i even start learning this? help.
