@@ -2,16 +2,17 @@ loser degenerate who knows some python and javascript. currently learning roblox
 
 ### skills (if you wanna call 'em that):
 - python: i can print “hello world” and break stuff. not too shabby.
-- javascript: slightly less painful but still makes me question my life choices.
+- javascript: slightly less painful (sometimes I make it do what I want) but still makes me question my life choices 
 - roblox lua: why did i even start learning this? help.
-- c: apparently, i hate myself enough to try.
+- c: feels like a painful trip back to the stone age of programming, but here we are
 
 ### hobbies:
-- writing code that somehow works… after 10 attempts
+- writing code that definitely shouldn’t see the light of day
 - staring at error messages and crying inside
 - breaking things, then fixing 'em just enough to call it "debugged"
 - pretending i know what i’m doing
 - writing code that’s more “oops” than “oops, i did it again”
+- writing code that works after 15-20 attempts. (10 on a good day.)
 
 
 ### goals:
