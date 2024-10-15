@@ -1,4 +1,5 @@
 loser degenerate who knows some python and javascript. currently learning roblox lua, not fun, learning c as well, who knew it was a bad idea to learn two languages at once? 
+python junkie, i <3 python
 
 ### skills (if you wanna call 'em that):
 - python: i can print “hello world” and break stuff. not too shabby.
