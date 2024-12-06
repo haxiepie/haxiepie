@@ -1,7 +1,6 @@
 # Haxie
 
-loser degenerate who knows some python and javascript. currently learning roblox lua, not fun, learning c as well, who knew it was a bad idea to learn two languages at once? 
-python junkie, i <3 python
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=python+junkie;horrible+beginner+dev;cybersecurity+person+err%3F)](https://git.io/typing-svg)
 
 ### skills (if you wanna call 'em that):
 - python: i can print “hello world” and break stuff. not too shabby.
