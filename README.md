@@ -23,7 +23,6 @@
 - figure out why i didnt just try applying to the NFL
 - stop crying over my code
 
-discord -- _haxie
+### communication
 
----
-
+- discord: _haxiee
